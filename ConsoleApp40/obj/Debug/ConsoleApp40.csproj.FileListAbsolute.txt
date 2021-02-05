@@ -1,0 +1,6 @@
+C:\Users\Stas74\source\repos\ConsoleApp40\obj\Debug\ConsoleApp40.csprojAssemblyReference.cache
+C:\Users\Stas74\source\repos\ConsoleApp40\bin\Debug\ConsoleApp40.exe.config
+C:\Users\Stas74\source\repos\ConsoleApp40\bin\Debug\ConsoleApp40.exe
+C:\Users\Stas74\source\repos\ConsoleApp40\bin\Debug\ConsoleApp40.pdb
+C:\Users\Stas74\source\repos\ConsoleApp40\obj\Debug\ConsoleApp40.exe
+C:\Users\Stas74\source\repos\ConsoleApp40\obj\Debug\ConsoleApp40.pdb
